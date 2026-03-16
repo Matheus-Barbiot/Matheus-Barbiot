@@ -13,7 +13,7 @@ I'm currently studying **web development** with *React.js*.
 In NEXUS, you explore isolated environments where special boxes channel energy to activate doors, platforms, and other mechanisms. 
 Each room is a visual puzzle - and there's only one way to progress: by skillfully manipulating the flow of energy.
 
-### [Play Nexus](https://barbiot.itch.io/gunburn)
+### [Play Nexus](https://barbiot.itch.io/nexus)
 
 ---
 # GUNBURN
